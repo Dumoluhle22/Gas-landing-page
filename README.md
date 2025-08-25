@@ -1,2 +1,1 @@
-# Gas-landing-page
-Responsive landing page for QuickGas
+Hire shop landing page
